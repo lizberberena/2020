@@ -10,16 +10,16 @@ excerpt: This is the first complete game I made in the Unity game engine with a 
 relevant: "no"
 ---
 
-<img src="https://lizlorena.com/img/metalloidmenu.gif" alt="Gif of Main Menu of Metalloid Game" class="img-fluid"/>
+<img src="/img/metalloidmenu.gif" alt="Gif of Main Menu of Metalloid Game" class="img-fluid"/>
 
-<p class="caption"><a href="https://github.com/liz-lorena/liz-lorena" target="_blank">Download Zip from Google Drive</a></p>
+<p class="caption"><a href="https://github.com/lizberberena/lizberberena" target="_blank">Download Zip from Google Drive</a></p>
 
 <p>This was my partnered midterm project for my game design class in my junior year of college. It was the first time I ever made anything with Unity, and it was a lot of fun to learn how to use this software and how to make a 2D side-scroller. Unfortunately, it was also quite stressful to make this game because of the glitches in Unity's cloud collaboration feature. Also I found that I don't like the click-and-drag nature of this software because it makes everything feel super imprecise.</p>
 
 <p>It would be cool if you gave this game a play, but I'm not lying in the Itch.io description that this is the worst thing I've ever made. In the game, you're a space soldier escaping your ship which has become infested with hell-spawn. <a href="https://en.wikipedia.org/wiki/Doom_(1993_video_game)" target="_blank" rel="nofollow"><em>Sound familiar?</em></a> The game ends when you fly to Earth. I made the third level by myself, and it differs from the rest of the game because there you fly a ship and shoot asteroids.</p>
 
-<img src="https://lizlorena.com/img/Metalloid2.png" alt="Screenshot of Metalloid Game" class="img-fluid">
-<img src="https://lizlorena.com/img/Metalloid3.png" alt="Second Screenshot of Metalloid Game" class="img-fluid">
+<img src="/img/Metalloid2.png" alt="Screenshot of Metalloid Game" class="img-fluid">
+<img src="/img/Metalloid3.png" alt="Second Screenshot of Metalloid Game" class="img-fluid">
 
 <h3>The Take Away</h3>
 

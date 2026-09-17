@@ -10,9 +10,9 @@ excerpt: This is the second game I made in the Unity game engine. It's a 3D walk
 relevant: "no"
 ---
 
-<img src="https://lizlorena.com/img/phonyrealitymenuyoyod.gif" alt="Gif of Phony Reality Menu Loop" class="img-fluid"/>
+<img src="/img/phonyrealitymenuyoyod.gif" alt="Gif of Phony Reality Menu Loop" class="img-fluid"/>
 
-<p class="caption"><a href="https://github.com/liz-lorena/liz-lorena" target="_blank">Download Zip from Google Drive</a></p>
+<p class="caption"><a href="https://github.com/lizberberena/lizberberena" target="_blank">Download Zip from Google Drive</a></p>
 
 <p>This game was for my final project in my game design class my junior year of college. For the second half of the class, we learned to use Unity to make 3D games, and I thought that this was a little easier. The lag, the terrain builder, and the click-and-drag system is probably still the worst part of Unity, and I should learn to handle those better. </p>
 
@@ -20,5 +20,5 @@ relevant: "no"
 
 <p>Also, not to spoil anything, but the themes in this game are something I want to incorporate in my current game as well.</p>
 
-<img src="https://lizlorena.com/img/PhonyReality2.png" alt="Screenshot of Phony Reality" class="img-fluid"/>
-<img src="https://lizlorena.com/img/PhonyReality3.png" alt="Second Screenshot of Phony Reality" class="img-fluid"/>
+<img src="/img/PhonyReality2.png" alt="Screenshot of Phony Reality" class="img-fluid"/>
+<img src="/img/PhonyReality3.png" alt="Second Screenshot of Phony Reality" class="img-fluid"/>
